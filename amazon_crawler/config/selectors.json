@@ -1,0 +1,84 @@
+{
+  "title_selectors": [
+    "span#productTitle::text",
+    "h1#title span::text",
+    "h1.a-size-large span.a-size-large::text",
+    "div#titleSection h1::text",
+    "div#title_feature_div h1::text",
+    "//span[@id=\"productTitle\"]/text()",
+    "//h1[@id=\"title\"]//span/text()",
+    "//div[contains(@class, \"product-title-word-break\")]//text()"
+  ],
+
+
+
+  "row_selectors": [
+    {"type": "xpath", "value": "//div[@class=\"a-section a-spacing-small a-spacing-top-small\"]//table[@class=\"a-normal a-spacing-micro\"]/tr"},
+    {"type": "xpath", "value": "//div[@id=\"productOverview_feature_div\"]//table[contains(@class, \"a-normal\") and contains(@class, \"a-spacing-micro\")]//tr"},
+    {"type": "xpath", "value": "//div[@id=\"productOverview_feature_div\"]//tr[td//span[contains(@class, \"a-text-bold\")]]"},
+    {"type": "xpath", "value": "//div[@id=\"productOverview_feature_div\"]//tr[contains(@class, \"po-\")]"},
+    {"type": "xpath", "value": "//table[contains(@class, \"a-spacing-micro\")]//tr[contains(@class, \"po-\")]"},
+    {"type": "xpath", "value": "//table[contains(@class, \"a-normal\") and contains(@class, \"a-spacing-micro\")]//tr"},
+    {"type": "xpath", "value": "//tr[td//span[contains(@class, \"a-text-bold\")]]"}
+  ],
+
+
+
+  "price_selectors": [
+    "//div[@id=\"corePriceDisplay_desktop_feature_div\"]//span[@class=\"aok-offscreen\"]/text()",
+    "//div[contains(@class, \"aok-align-center\") and contains(@class, \"aok-relative\")]//span[@class=\"aok-offscreen\"]/text()"
+  ],
+  "list_price_selectors": [
+    "div.a-section.a-spacing-small.aok-align-center span.a-price.a-text-price > span.a-offscreen::text",
+    "div.a-section.a-spacing-small.aok-align-center span.a-price.a-text-price > span[aria-hidden='true']::text",
+    "div.a-section.a-spacing-small.aok-align-center span.a-price.a-text-price::text",
+    "//div[contains(@class,\"a-section\") and contains(@class, \"a-spacing-small\") and contains(@class, \"aok-align-center\")]//span[contains(@class, \"a-price\") and contains(@class, \"a-text-price\")]//span[@class=\"a-offscreen\"]/text()",
+    "//div[contains(@class, \"a-section\") and contains(@class, \"a-spacing-small\") and contains(@class, \"aok-align-center\")]//span[contains(@class, \"a-price\") and contains(@class, \"a-text-price\")]//span[@aria-hidden=\"true\"]/text()"
+  ],
+  "discount_selectors": [
+    "div#corePrice_feature_div span.savingsPercentage::text",
+    "div.a-section.a-spacing-small.aok-align-center span.savingsPercentage::text",
+    "div.a-section.a-spacing-none.aok-align-center span.savingsPercentage::text",
+    "div#corePrice_feature_div span#regularprice_savings .a-color-price::text",
+    "//div[@id=\"corePrice_feature_div\"]//span[contains(@class, \"savingsPercentage\")]/text()",
+    "//div[contains(@class, \"aok-align-center\")]//span[contains(@class, \"savingsPercentage\")]/text()"
+  ],
+
+  
+
+  "rating_selectors": [
+    "//div[@id=\"averageCustomerReviews_feature_div\"]//span[contains(@class, \"a-icon-alt\")]/text()",
+    "//div[@id=\"averageCustomerReviews_feature_div\"]//i[contains(@class, \"a-icon-star\")]//span/text()",
+    "//div[@id=\"averageCustomerReviews_feature_div\"]//span[@data-asin]//i[contains(@class, \"a-icon-star-mini\")]//span/text()"
+  ],
+  "review_count_selectors": [
+    "//div[@id=\"averageCustomerReviews_feature_div\"]//span[@id=\"acrCustomerReviewText\"]/text()",
+    "//div[@id=\"averageCustomerReviews_feature_div\"]//a[@id=\"acrCustomerReviewLink\"]//span/text()",
+    "//div[@id=\"averageCustomerReviews_feature_div\"]//a[contains(@href, \"#customerReviews\")]//span/text()"
+  ],
+
+
+  "check_list": {
+        "ASIN" : "asin",
+        "Brand" : "brand_name",
+        "Digital Storage Capacity" : "flash_memory_size",
+        "Hard Disk Size" : "flash_memory_size",
+        "Memory Storage Capacity" : "flash_memory_size",
+        "Series" : "series",
+        "Style" : "style",
+        "Model Number" : "item_model_number",
+        "Item model number" : "item_model_number",
+        "Compatible Devices" : "hardware_platform",
+        "Item Weight" : "item_weight",
+        "Item Dimensions L x W x Thickness" : "product_dimensions",
+        "Product Dimensions" : "product_dimensions",
+        "Item Dimensions LxWxH" : "product_dimensions",
+        "Color" : "color",
+        "Hard Disk Interface" : "hard_drive_interface",
+        "Hardware Interface" : "hard_drive_interface",
+        "Hard Drive Interface" : "hard_drive_interface",
+        "Manufacturer" : "manufacturer",
+        "Country of Origin" : "country_of_origin",
+        "Date First Available" : "date_first_available"
+    }
+}

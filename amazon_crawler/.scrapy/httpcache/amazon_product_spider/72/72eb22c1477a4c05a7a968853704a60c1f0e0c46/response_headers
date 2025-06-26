@@ -1,0 +1,19 @@
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 22 May 2025 05:23:44 GMT
+Vary: Content-Type,Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+Server: Server
+X-Amz-Rid: 0QHX5JVKYSW740RE7MJN
+X-Xss-Protection: 1;
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+Content-Encoding: gzip
+Content-Security-Policy-Report-Only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-platform-version
+Accept-Ch-Lifetime: 86400
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Cache: Error from cloudfront
+Via: 1.1 d85938c735457899834d65b9967622da.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ICN80-P2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: -BWxBI9vQ5UeqqxTE0p8hFpLo0376ubVZIfDgs3QbUvamrgFjZTQ4A==
