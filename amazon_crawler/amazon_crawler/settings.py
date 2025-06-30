@@ -12,6 +12,7 @@ FEEDS = {
         'indent': 4,
     }
 }
+
 # ─────── 요청/응답 ───────
 DOWNLOAD_TIMEOUT = 30
 DOWNLOAD_DELAY = 2
@@ -21,6 +22,14 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 1
 
 COOKIES_ENABLED = True
 HTTPCACHE_ENABLED = False
+
+# ─────── 로그 파일 ───────
+import os
+from datetime import datetime
+LOG_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'logs')
+LOG_FILE = os.path.join(LOG_DIR, f"crawl_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.log")
+LOG_LEVEL = 'DEBUG'
+LOG_STDOUT = True
 
 # ─────── User-Agent 목록 … (생략) ───────
 USER_AGENT_CHOICES = [
@@ -86,12 +95,4 @@ DEFAULT_REQUEST_HEADERS = {
     'Connection': 'keep-alive',
     "COOKIES_ENABLED": True
 }
-
-# ─────── 로그 파일 ───────
-import os
-from datetime import datetime
-LOG_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'logs')
-LOG_FILE = os.path.join(LOG_DIR, f"crawl_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.log")
-LOG_LEVEL = 'DEBUG'
-LOG_STDOUT = True
 # ────────────────────────────────────────────────────────────────

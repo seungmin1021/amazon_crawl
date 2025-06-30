@@ -61,31 +61,31 @@ class AmazonProductSpider(scrapy.Spider):
         self.user_agents = settings.get('USER_AGENT_CHOICES')
         self.headers = settings.get('DEFAULT_REQUEST_HEADERS')
 
-        self.urls = ['https://www.amazon.com/dp/B007R9N0O0']
+        # self.urls = ['https://www.amazon.com/dp/B007R9N0O0']
 
         # file_path = './data/amazon_review_open2.xlsx'
         # df = pd.read_excel(file_path, sheet_name='검증대상')
 
 
-        # file_path = './data/amazon_review_open.xlsx'
-        # df = pd.read_excel(file_path)
+        file_path = './data/amazon_review_open.xlsx'
+        df = pd.read_excel(file_path)
 
-        # df = df[df['DATA_GBN'] != 'DELETE']
-        # asin_list = df['ASIN'].dropna().unique().tolist()
-        # self.urls = [f'https://www.amazon.com/dp/{i}' for i in asin_list]
-        # # self.urls = random.sample(self.urls, 20)
+        df = df[df['DATA_GBN'] != 'DELETE']
+        asin_list = df['ASIN'].dropna().unique().tolist()
+        self.urls = [f'https://www.amazon.com/dp/{i}' for i in asin_list]
+        # self.urls = random.sample(self.urls, 20)
 
-        # self.urls = sorted(self.urls)
+        self.urls = sorted(self.urls)
 
         # self.urls = self.urls[:1000]
-        # # self.urls = self.urls[1000:2000]
-        # # self.urls = self.urls[2000:3000]
-        # # self.urls = self.urls[3000:4000]
-        # # self.urls = self.urls[4000:5000]
-        # # self.urls = self.urls[5000:6000]
-        # # self.urls = self.urls[6000:7000]
-        # # self.urls = self.urls[7000:8000]
-        # # self.urls = self.urls[8000:]
+        # self.urls = self.urls[1000:2000]
+        # self.urls = self.urls[2000:3000]
+        # self.urls = self.urls[3000:4000]
+        # self.urls = self.urls[4000:5000]
+        self.urls = self.urls[5000:6000]
+        # self.urls = self.urls[6000:7000]
+        # self.urls = self.urls[7000:8000]
+        # self.urls = self.urls[8000:]
 
         self.total_count = len(self.urls)
 
