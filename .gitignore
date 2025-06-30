@@ -1,5 +1,5 @@
 amazon_crawler/.scrapy/
-amazon_crawler/data
-amazon_crawler/logs
+amazon_crawler/data/
+amazon_crawler/logs/
 
 API_Amazon/.env
