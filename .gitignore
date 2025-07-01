@@ -3,3 +3,6 @@ amazon_crawler/data/
 amazon_crawler/logs/
 
 API_Amazon/.env
+
+
+selenium/
