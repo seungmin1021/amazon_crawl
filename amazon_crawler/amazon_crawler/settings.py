@@ -6,7 +6,7 @@ NEWSPIDER_MODULE = 'amazon_crawler.spiders'
 # ─────── 출력 ───────
 FEED_EXPORT_ENCODING = 'utf-8'
 FEEDS = {
-    './data/result/데이터 적재/원본/5001-6000.json': {
+    './data/result/데이터 적재/원본/8001.json': {
         'format': 'json',
         'encoding': 'utf8',
         'indent': 4,
