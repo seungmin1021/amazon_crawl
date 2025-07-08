@@ -10,8 +10,8 @@ crawling/API_Amazon/.env
 crawling/selenium/
 
 # 아마존 리뷰 크롤러 프로젝트
-review/amazon_reviews/**/data/results/
-review/amazon_reviews/**/data/failed/
-review/amazon_reviews/**/logs/
-review/amazon_reviews/**/__pycache__/
-review/amazon_reviews/mongo_data
+review/amazon_crawl/amazon_reviews/**/data/results/
+review/amazon_crawl/amazon_reviews/**/data/failed/
+review/amazon_crawl/amazon_reviews/**/logs/
+review/amazon_crawl/amazon_reviews/**/__pycache__/
+review/amazon_crawl/amazon_reviews/mongo_data
