@@ -1,0 +1,41 @@
+version: '3.8'
+services:
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: adminpw
+    ports:
+      - "27017:27017"
+    volumes:
+      - ../../mongo_data:/data/db
+    networks:
+          - crawling-net
+  crawler:
+    image: pw:v5
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: amazon-crawler
+    depends_on:
+      - mongo
+    environment:
+      MONGO_HOST: mongo
+      MONGO_PORT: 27017
+      MONGO_DB: amazon_reviews
+      MONGO_COLLECTION: reviews
+      MONGO_USER: admin
+      MONGO_PASSWORD: adminpw
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./.env:/app/.env
+    command: --login_browser firefox --login_headless --crawling_headless --use_proxy --asin_start 3 --asin_end 5 --max_pages 2 --max_concurrent_contexts 3 --log_level DEBUG
+    networks:
+      - crawling-net
+
+networks:
+  crawling-net:
+    driver: bridge

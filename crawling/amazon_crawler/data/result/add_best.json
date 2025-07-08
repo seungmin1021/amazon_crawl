@@ -1,0 +1,564 @@
+[
+{
+    "asin": "B08HN37XC1",
+    "board_name": "BEST_External SSD",
+    "brand_name": "SanDisk",
+    "color": "Black",
+    "country_of_origin": "null",
+    "data_gbn": "BEST",
+    "date_first_available": "null",
+    "division": "PSSD",
+    "error": "null",
+    "expand_info": {
+        "Connectivity_Technology": "USB",
+        "Additional_Features": "Dust Resistant, Water Resistant, Portable, Hardware Encryption",
+        "Hard_Disk_Form_Factor": "2.5 Inches",
+        "Specific_Uses_For_Product": "personal, gaming, business",
+        "Read_Speed": "1050 Megabytes Per Second",
+        "Media_Speed": "1000 megabits_per_second",
+        "Cache_Memory_Installed_Size": "2",
+        "Data_Transfer_Rate": "1050 Megabits Per Second",
+        "Form_Factor": "2.5-inch",
+        "Hardware_Connectivity": "USB 3.2 Gen 2",
+        "Hard_Disk_Description": "Solid State Drive",
+        "Built-In_Media": "1 x SanDisk Extreme Portable SSD",
+        "Model_Name": "Extreme Portable SSD",
+        "UPC": "619659184674",
+        "Best_Sellers_Rank": "#1 in External Solid State Drives",
+        "Item_Type_Name": "External SSD",
+        "Item_Height": "3.97 inches",
+        "Warranty_Description": "5-year limited manufacturer warranty",
+        "Hard-Drive_Size": "2 TB",
+        "Number_of_Items": "1",
+        "Unit_Count": "1.0 Count",
+        "Special_Feature": "Dust Resistant, Water Resistant, Portable, Hardware Encryption",
+        "price": "$149.99",
+        "list_price": "$209.99",
+        "discount": "-29%",
+        "rating": "4.6",
+        "review_count": "78680",
+        "currentAsin": "B08HN37XC1",
+        "landingAsin": "B08HN37XC1",
+        "parentAsin": "B0DNV2XFJQ",
+        "dimensionToAsinMap": {
+            "0_1": "B0CTPG9KPH",
+            "1_0": "B08GTXVG9P",
+            "1_1": "B08GTYFC37",
+            "1_2": "B08HN37XC1",
+            "1_3": "B08RX4QKXS",
+            "1_4": "B0DLK38TR9",
+            "2_1": "B0C59G4TLQ",
+            "2_2": "B0C59G53GS",
+            "2_3": "B0C59FBGG1",
+            "3_1": "B0C5SDQVNL",
+            "3_2": "B0C5SC2V95",
+            "3_3": "B0C5SF333L"
+        },
+        "variationValues": {
+            "color_name": [
+                "Afrofuturism Edition",
+                "Black",
+                "Monterey",
+                "Sky Blue"
+            ],
+            "size_name": [
+                "500GB",
+                "1TB",
+                "2TB",
+                "4TB",
+                "8TB"
+            ]
+        },
+        "num_total_variations": 12,
+        "dimensionValuesDisplayData": {
+            "B08GTXVG9P": [
+                "Black",
+                "500GB"
+            ],
+            "B08GTYFC37": [
+                "Black",
+                "1TB"
+            ],
+            "B08HN37XC1": [
+                "Black",
+                "2TB"
+            ],
+            "B08RX4QKXS": [
+                "Black",
+                "4TB"
+            ],
+            "B0C59FBGG1": [
+                "Monterey",
+                "4TB"
+            ],
+            "B0C59G4TLQ": [
+                "Monterey",
+                "1TB"
+            ],
+            "B0C59G53GS": [
+                "Monterey",
+                "2TB"
+            ],
+            "B0C5SC2V95": [
+                "Sky Blue",
+                "2TB"
+            ],
+            "B0C5SDQVNL": [
+                "Sky Blue",
+                "1TB"
+            ],
+            "B0C5SF333L": [
+                "Sky Blue",
+                "4TB"
+            ],
+            "B0CTPG9KPH": [
+                "Afrofuturism Edition",
+                "1TB"
+            ],
+            "B0DLK38TR9": [
+                "Black",
+                "8TB"
+            ]
+        },
+        "variationDisplayLabels": {
+            "color_name": "Color",
+            "size_name": "Capacity"
+        }
+    },
+    "flash_memory_size": "2 TB",
+    "group_id": "B0DNV2XFJQ",
+    "hard_drive_interface": "USB 3.2",
+    "hardware_platform": "Laptop, Desktop, Tablet",
+    "image_url": "https://m.media-amazon.com/images/I/61zuR3UMnWL._AC_SL1500_.jpg",
+    "item_model_number": "SDSSDE61-2T00-G25",
+    "item_weight": "0.11 Pounds",
+    "last_crawl_datetime": "2025/06/23 11:25:46",
+    "manufacturer": "Western Digital Technologies, Inc.",
+    "product_dimensions": "3.97\"L x 2.07\"W x 0.38\"Th",
+    "product_name": "SanDisk 2TB Extreme Portable SSD - Up to 1050MB/s, USB-C, USB 3.2 Gen 2, IP65 Water and Dust Resistance, Updated Firmware - External Solid State Drive - SDSSDE61-2T00-G25",
+    "series": "null",
+    "style": "null",
+    "url": "https://www.amazon.com/dp/B08HN37XC1"
+},
+{
+    "asin": "B09BJYXMDW",
+    "board_name": "BEST_External SSD",
+    "brand_name": "Seagate",
+    "color": "SSD",
+    "country_of_origin": "null",
+    "data_gbn": "BEST",
+    "date_first_available": "null",
+    "division": "PSSD",
+    "error": "null",
+    "expand_info": {
+        "Connectivity_Technology": "USB",
+        "Additional_Features": "Portable",
+        "Hard_Disk_Form_Factor": "2.5 Inches",
+        "Specific_Uses_For_Product": "storage, Gaming",
+        "Cache_Memory_Installed_Size": "2",
+        "Data_Transfer_Rate": "5000 Megabytes Per Second",
+        "Form_Factor": "2.5-inch",
+        "Hardware_Connectivity": "Solid State Drive",
+        "Hard_Disk_Description": "Solid State Drive",
+        "Built-In_Media": "Seagate Expansion SSD 2TB PCIE",
+        "Global_Trade_Identification_Number": "00763649170311",
+        "UPC": "763649170311",
+        "Best_Sellers_Rank": "#12 in External Solid State Drives",
+        "Item_Length": "0.78 Centimeters",
+        "Item_Width": "3.16 Centimeters",
+        "Item_Height": "0.3 inches",
+        "Warranty_Description": "3-Year Limited",
+        "Hard-Drive_Size": "2 TB",
+        "Number_of_Items": "1",
+        "Unit_Count": "1.0 Count",
+        "Installation_Type": "External Hard Drive",
+        "Special_Feature": "Portable",
+        "price": "$245.75",
+        "list_price": "$359.99",
+        "discount": "-32%",
+        "rating": "4.6",
+        "review_count": "24690",
+        "currentAsin": "B09BJYXMDW",
+        "landingAsin": "B09BJYXMDW",
+        "parentAsin": "B0F913GM93",
+        "dimensionToAsinMap": {
+            "0_0_1": "B08K3S6WJM",
+            "0_1_1": "B09BJYXMDW",
+            "1_1_0": "B08Y1Q2KSZ",
+            "1_2_0": "B08Y1QRTBM",
+            "2_3_0": "B0DBZ7DDFT"
+        },
+        "variationValues": {
+            "color_name": [
+                "HDD",
+                "SSD"
+            ],
+            "size_name": [
+                "1TB",
+                "2TB",
+                "4TB",
+                "5TB"
+            ],
+            "style_name": [
+                "Expansion Card for Xbox Series X|S",
+                "LED HDD",
+                "Xbox HDD - w/ RGB LED"
+            ]
+        },
+        "num_total_variations": 5,
+        "dimensionValuesDisplayData": {
+            "B08K3S6WJM": [
+                "Expansion Card for Xbox Series X|S",
+                "1TB",
+                "SSD"
+            ],
+            "B08Y1Q2KSZ": [
+                "LED HDD",
+                "2TB",
+                "HDD"
+            ],
+            "B08Y1QRTBM": [
+                "LED HDD",
+                "4TB",
+                "HDD"
+            ],
+            "B09BJYXMDW": [
+                "Expansion Card for Xbox Series X|S",
+                "2TB",
+                "SSD"
+            ],
+            "B0DBZ7DDFT": [
+                "Xbox HDD - w/ RGB LED",
+                "5TB",
+                "HDD"
+            ]
+        },
+        "variationDisplayLabels": {
+            "color_name": "Color",
+            "size_name": "Capacity",
+            "style_name": "Style"
+        }
+    },
+    "flash_memory_size": "2000 GB",
+    "group_id": "B0F913GM93",
+    "hard_drive_interface": "NVMe",
+    "hardware_platform": "Gaming Console",
+    "image_url": "https://m.media-amazon.com/images/I/81Vt8SIjsZL._AC_SL1500_.jpg",
+    "item_model_number": "STJR2000400",
+    "item_weight": "30 Grams",
+    "last_crawl_datetime": "2025/06/23 11:25:49",
+    "manufacturer": "Seagate",
+    "product_dimensions": "2\"L x 1.25\"W x 0.3\"Th",
+    "product_name": "Seagate Storage Expansion Card 2TB Solid State Drive - NVMe SSD for Xbox Series X|S, Quick Resume, Plug & Play, Licensed (STJR2000400) Black",
+    "series": "null",
+    "style": "Expansion Card for Xbox Series X|S",
+    "url": "https://www.amazon.com/dp/B09BJYXMDW"
+},
+{
+    "asin": "B0874XN4D8",
+    "board_name": "BEST_External SSD",
+    "brand_name": "Samsung",
+    "color": "Titan Gray",
+    "country_of_origin": "null",
+    "data_gbn": "BEST",
+    "date_first_available": "null",
+    "division": "PSSD",
+    "error": "null",
+    "expand_info": {
+        "Connectivity_Technology": "USB",
+        "Additional_Features": "Shock Resistant, Read Speeds up to 1050 MB/s, 256-Bit AES Hardware Encryption, Thermal Control, Write Speeds up to 1000 MB/s",
+        "Specific_Uses_For_Product": "business, gaming",
+        "Read_Speed": "1050 Megabytes Per Second",
+        "Media_Speed": "1000 megabits_per_second",
+        "Cache_Memory_Installed_Size": "1",
+        "Data_Transfer_Rate": "10 Gigabits Per Second",
+        "Form_Factor": "Portable",
+        "Hardware_Connectivity": "Solid State Drive",
+        "Hard_Disk_Description": "Solid State Hard Drive",
+        "Built-In_Media": "USB Cable",
+        "UPC": "887276410791",
+        "Best_Sellers_Rank": "#3 in External Solid State Drives",
+        "Item_Type_Name": "External Solid State Drive",
+        "Item_Height": "0.3 inches",
+        "Warranty_Description": "3 year limited warranty",
+        "Hard-Drive_Size": "1 TB",
+        "Number_of_Items": "1",
+        "Unit_Count": "1.0 Count",
+        "Installation_Type": "External Hard Drive",
+        "Special_Feature": "(function(f) {var _np=(window.P._namespace(\"DetailPageProductOverviewTemplatesJava\"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) { P.when('A').execute(function(A){ A.on('a:truncate:po-attribute-truncate-4:updated', function(data) { var isTruncated = !data.truncateInstance.getIfTextFits(); var seeMoreElement = document.getElementById('po-attribute-see-more-id-4'); if(seeMoreElement) { seeMoreElement.style.display = isTruncated ? '' : 'none'; } }) }); })); Shock Resistant, Read Speeds up to 1050 MB/s, 256-Bit AES Hardware Encryption, Thermal Control, Write Speeds up to 1000 MB/s See more",
+        "price": "$99.99",
+        "list_price": null,
+        "discount": null,
+        "rating": "4.7",
+        "review_count": "35273",
+        "currentAsin": "B0874XN4D8",
+        "landingAsin": "B0874XN4D8",
+        "parentAsin": "B0D87GVYY6",
+        "dimensionToAsinMap": {
+            "0_0": "B0874YJP92",
+            "0_1": "B0874Y5XFG",
+            "0_3": "B0874XJL6M",
+            "1_1": "B0874YHTXW",
+            "2_0": "B0874XN4D8",
+            "2_1": "B0874XWW23",
+            "2_2": "B0CX9BV341",
+            "2_3": "B0874YS2N7"
+        },
+        "variationValues": {
+            "color_name": [
+                "Blue",
+                "Red",
+                "Titan Gray"
+            ],
+            "memory_storage_capacity": [
+                "1 TB",
+                "2 TB",
+                "4 TB",
+                "500 GB"
+            ]
+        },
+        "num_total_variations": 8,
+        "dimensionValuesDisplayData": {
+            "B0874XJL6M": [
+                "Blue",
+                "500 GB"
+            ],
+            "B0874XN4D8": [
+                "Titan Gray",
+                "1 TB"
+            ],
+            "B0874XWW23": [
+                "Titan Gray",
+                "2 TB"
+            ],
+            "B0874Y5XFG": [
+                "Blue",
+                "2 TB"
+            ],
+            "B0874YHTXW": [
+                "Red",
+                "2 TB"
+            ],
+            "B0874YJP92": [
+                "Blue",
+                "1 TB"
+            ],
+            "B0874YS2N7": [
+                "Titan Gray",
+                "500 GB"
+            ],
+            "B0CX9BV341": [
+                "Titan Gray",
+                "4 TB"
+            ]
+        },
+        "variationDisplayLabels": {
+            "color_name": "Color",
+            "memory_storage_capacity": "Memory Storage Capacity"
+        }
+    },
+    "flash_memory_size": "1 TB",
+    "group_id": "B0D87GVYY6",
+    "hard_drive_interface": "USB 1.1",
+    "hardware_platform": "PC, Gaming Console, Tablet, Smartphone, Mac",
+    "image_url": "https://m.media-amazon.com/images/I/91YfRIy7kYL._AC_SL1500_.jpg",
+    "item_model_number": "MU-PC1T0T",
+    "item_weight": "0.13 Pounds",
+    "last_crawl_datetime": "2025/06/23 11:25:53",
+    "manufacturer": "Samsung",
+    "product_dimensions": "3.3\"L x 2.2\"W x 0.3\"Th",
+    "product_name": "Samsung T7 Portable SSD, 1TB External Solid State Drive, Speeds Up to 1,050MB/s, USB 3.2 Gen 2, Reliable Storage for Gaming, Students, Professionals, MU-PC1T0T/AM, Gray",
+    "series": "null",
+    "style": "null",
+    "url": "https://www.amazon.com/dp/B0874XN4D8"
+},
+{
+    "asin": "B0CHFSZX9W",
+    "board_name": "BEST_External SSD",
+    "brand_name": "Samsung",
+    "color": "Black",
+    "country_of_origin": "null",
+    "data_gbn": "BEST",
+    "date_first_available": "null",
+    "division": "PSSD",
+    "error": "null",
+    "expand_info": {
+        "Connectivity_Technology": "USB",
+        "Additional_Features": "Dynamic Thermal Guard, AES 256-bit hardware encryption, Rugged durability enduring up to 9.8 ft drop, Read/Write Speed up to 2,000 MB/s",
+        "Hard_Disk_Form_Factor": "2.4 Inches",
+        "Specific_Uses_For_Product": "Multimedia, Personal, Business",
+        "Read_Speed": "2000 Megabytes Per Second",
+        "Media_Speed": "2000",
+        "Cache_Memory_Installed_Size": "4",
+        "Data_Transfer_Rate": "2000 Megabits Per Second",
+        "Form_Factor": "Portable",
+        "Hardware_Connectivity": "Solid State Drive",
+        "Hard_Disk_Description": "Solid State Drive",
+        "Built-In_Media": "Hard Drive",
+        "Model_Name": "T9",
+        "UPC": "887276664521",
+        "Best_Sellers_Rank": "#13 in External Solid State Drives",
+        "Item_Height": "0.55 inches",
+        "Warranty_Description": "5 Year Limited Warranty",
+        "Hard-Drive_Size": "4 TB",
+        "Number_of_Items": "1",
+        "Installation_Type": "External Hard Drive",
+        "Enclosure_Material": "Information Not Available",
+        "Special_Feature": "(function(f) {var _np=(window.P._namespace(\"DetailPageProductOverviewTemplatesJava\"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) { P.when('A').execute(function(A){ A.on('a:truncate:po-attribute-truncate-4:updated', function(data) { var isTruncated = !data.truncateInstance.getIfTextFits(); var seeMoreElement = document.getElementById('po-attribute-see-more-id-4'); if(seeMoreElement) { seeMoreElement.style.display = isTruncated ? '' : 'none'; } }) }); })); Dynamic Thermal Guard, AES 256-bit hardware encryption, Rugged durability enduring up to 9.8 ft drop, Read/Write Speed up to 2,000 MB/s See more",
+        "price": "$315.99",
+        "list_price": "$549.99",
+        "discount": "-43%",
+        "rating": "4.6",
+        "review_count": "1753",
+        "currentAsin": "B0CHFSZX9W",
+        "landingAsin": "B0CHFSZX9W",
+        "parentAsin": "B0CKDJSCCR",
+        "dimensionToAsinMap": {
+            "0_0": "B0CHFSWM2P",
+            "0_1": "B0CHFS9K14",
+            "0_2": "B0CHFSZX9W",
+            "1_1": "B0DB315K8M"
+        },
+        "variationValues": {
+            "color_name": [
+                "Black",
+                "Gray"
+            ],
+            "size_name": [
+                "1TB",
+                "2TB",
+                "4TB"
+            ]
+        },
+        "num_total_variations": 4,
+        "dimensionValuesDisplayData": {
+            "B0CHFS9K14": [
+                "Black",
+                "2TB"
+            ],
+            "B0CHFSWM2P": [
+                "Black",
+                "1TB"
+            ],
+            "B0CHFSZX9W": [
+                "Black",
+                "4TB"
+            ],
+            "B0DB315K8M": [
+                "Gray",
+                "2TB"
+            ]
+        },
+        "variationDisplayLabels": {
+            "color_name": "Color",
+            "size_name": "Capacity"
+        }
+    },
+    "flash_memory_size": "4 TB",
+    "group_id": "B0CKDJSCCR",
+    "hard_drive_interface": "USB 3.0",
+    "hardware_platform": "PC, Gaming Console, iPhone 15/16, Tablet, Mac",
+    "image_url": "https://m.media-amazon.com/images/I/71EESd1deTL._AC_SL1500_.jpg",
+    "item_model_number": "MU-PG4T0B",
+    "item_weight": "0.27 Pounds",
+    "last_crawl_datetime": "2025/06/23 11:25:56",
+    "manufacturer": "Samsung",
+    "product_dimensions": "3.46\"L x 2.36\"W x 0.55\"Th",
+    "product_name": "SAMSUNG T9 Portable SSD 4TB, USB 3.2 Gen 2x2 External Solid State Drive, Seq. Read Speeds Up to 2,000MB/s for Gaming, Students and Professionals,MU-PG4T0B/AM, Black (pack of 1)",
+    "series": "null",
+    "style": "null",
+    "url": "https://www.amazon.com/dp/B0CHFSZX9W"
+},
+{
+    "asin": "B08RX3343D",
+    "board_name": "BEST_External SSD",
+    "brand_name": "SanDisk",
+    "color": "Black",
+    "country_of_origin": "null",
+    "data_gbn": "BEST",
+    "date_first_available": "null",
+    "division": "PSSD",
+    "error": "null",
+    "expand_info": {
+        "Connectivity_Technology": "USB",
+        "Additional_Features": "Hardware Encryption,Portable",
+        "Hard_Disk_Form_Factor": "2.5 Inches",
+        "Specific_Uses_For_Product": "business, personal",
+        "Read_Speed": "2000 Megabytes Per Second",
+        "Media_Speed": "2000",
+        "Cache_Memory_Installed_Size": "4",
+        "Form_Factor": "Portable",
+        "Hardware_Connectivity": "USB 3.2 Gen 2×2",
+        "Hard_Disk_Description": "Solid State Drive",
+        "Built-In_Media": "USB-C to USB-A Cable, Saftey and Warranty Guide, USB-C to USB-C Cable",
+        "Model_Name": "SanDisk Extreme PRO Portable SSD",
+        "UPC": "619659184735",
+        "Best_Sellers_Rank": "#8 in External Solid State Drives",
+        "Item_Type_Name": "External SSD",
+        "Item_Height": "4.36 inches",
+        "Warranty_Description": "5-year limited manufacturer warranty",
+        "Hard-Drive_Size": "4 TB",
+        "Number_of_Items": "1",
+        "Customer_Package_Type": "Standard Shipping Box with Cushioning",
+        "Installation_Type": "External Hard Drive",
+        "Enclosure_Material": "Information Not Available",
+        "Special_Feature": "Hardware Encryption,Portable",
+        "price": "$309.99",
+        "list_price": "$394.99",
+        "discount": "-22%",
+        "rating": "4.4",
+        "review_count": "14941",
+        "currentAsin": "B08RX3343D",
+        "landingAsin": "B08RX3343D",
+        "parentAsin": "B0B6MCKBT3",
+        "dimensionToAsinMap": {
+            "0_0": "B08GV9M64L",
+            "1_0": "B08GV4YYV7",
+            "2_0": "B08RX3343D"
+        },
+        "variationValues": {
+            "pattern_name": [
+                "SSD"
+            ],
+            "size_name": [
+                "1TB",
+                "2TB",
+                "4TB"
+            ]
+        },
+        "num_total_variations": 3,
+        "dimensionValuesDisplayData": {
+            "B08GV4YYV7": [
+                "2TB",
+                "SSD"
+            ],
+            "B08GV9M64L": [
+                "1TB",
+                "SSD"
+            ],
+            "B08RX3343D": [
+                "4TB",
+                "SSD"
+            ]
+        },
+        "variationDisplayLabels": {
+            "pattern_name": "Pattern",
+            "size_name": "Capacity"
+        }
+    },
+    "flash_memory_size": "4 TB",
+    "group_id": "B0B6MCKBT3",
+    "hard_drive_interface": "USB 3.2",
+    "hardware_platform": "Laptop, Desktop, Tablet, Smartphone",
+    "image_url": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_SL1500_.jpg",
+    "item_model_number": "SDSSDE81-4T00-G25",
+    "item_weight": "78 Grams",
+    "last_crawl_datetime": "2025/06/23 11:25:59",
+    "manufacturer": "Western Digital Technologies, Inc.",
+    "product_dimensions": "4.36\"L x 2.28\"W x 0.41\"Th",
+    "product_name": "SanDisk 4TB Extreme PRO Portable SSD - Up to 2000MB/s - USB-C, USB 3.2 Gen 2x2, IP65 Water and Dust Resistance, Updated Firmware - External Solid State Drive - SDSSDE81-4T00-G25",
+    "series": "null",
+    "style": "null",
+    "url": "https://www.amazon.com/dp/B08RX3343D"
+}
+]

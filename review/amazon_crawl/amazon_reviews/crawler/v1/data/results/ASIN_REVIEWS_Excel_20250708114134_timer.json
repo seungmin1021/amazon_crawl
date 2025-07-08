@@ -1,0 +1,12 @@
+{
+    "StartTime": "2025-07-08 11:41:34",
+    "EndTime": "2025-07-08 11:46:51",
+    "TotalDuration": "0시간 5분 16초",
+    "TotalASINsProcessed": 10,
+    "Success": 7,
+    "Failure": 3,
+    "SuccessRate": "70.00%",
+    "TotalReviewsCrawled": 74,
+    "TotalRequests": 17,
+    "Performance": "0.23 reviews/sec"
+}

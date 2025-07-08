@@ -1,0 +1,6 @@
+# .dockerignore
+data/failed
+data/results
+logs
+*.log
+__pycache__/

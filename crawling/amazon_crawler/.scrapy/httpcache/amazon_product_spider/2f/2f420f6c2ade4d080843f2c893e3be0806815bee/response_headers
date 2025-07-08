@@ -1,0 +1,23 @@
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 22 May 2025 02:14:51 GMT
+Vary: Content-Type,Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+Server: Server
+X-Amz-Rid: TY8KAC7P3TJ3G1T8S7RZ
+Set-Cookie: session-token=bd4IRgW5InssH23GR+i7NTQQht/CLID+YvjoZ7WGM/e/EqT+pk8j8601QU8s3MbLfEvPqGEkiV7QSu6tp7t7bmRveoSJw6GP17EruwfpDbVdkVb+XAmXAmyJbitlvwDaCcSoKZTMV2Ib5IV5dmXnE/+kcMTdGtSiYbeP2ZOEO9EFrOwSBrNr2aFgDLrZGzpxidN4umOxZujdRz+RzA5RttYS25iZIkdql6ItiECvn3aDHU/ZI1WcDZnzmiuu2UzBW7q8BKA9OJu1BUt75PisQLaadrs2LaeVKy1XiQohxJhQlTj/AniajTNOtv2CCwQ3ObCi8ky/5Qxh0YGUJzOtvaT8d35Du+t3mU3j524wMbPgQpJxiWJH3oHYKIlyn168; Domain=.amazon.com; Expires=Fri, 22-May-2026 02:14:51 GMT; Path=/; Secure
+Set-Cookie: x-main=TvcFT9cGbbsvN6lwCR8Lyvcny8AZHeyzl3dAvwxoPg0Q3rkOWu7k3wJaOdAJc6i7; Domain=.amazon.com; Expires=Fri, 22-May-2026 02:14:51 GMT; Path=/; Secure
+Content-Security-Policy-Report-Only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/
+Accept-Ch-Lifetime: 86400
+X-Xss-Protection: 1;
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-platform-version
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+Cache-Control: no-cache, no-transform
+P3P: policyref="https://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Cache: Miss from cloudfront
+Via: 1.1 dca56bdd3e2e1d62489edb585565a03a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ICN80-P2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: 3Mf8WSgbwwWiPrEzEuw9LhFnrz5fb1y0z6jtJRh2vMUUKjKcuum-jA==

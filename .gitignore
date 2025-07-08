@@ -1,17 +1,17 @@
-# # product_master ignore
-# crawling/amazon_crawler/.scrapy/
-# crawling/amazon_crawler/data/
-# crawling/amazon_crawler/logs/
+# product_master ignore
+crawling/amazon_crawler/.scrapy/
+crawling/amazon_crawler/data/
+crawling/amazon_crawler/logs/
 
-# # API server ingore
-# crawling/API_Amazon/.env
+# API server ingore
+crawling/API_Amazon/.env
 
-# ###
-# crawling/selenium/
+###
+crawling/selenium/
 
-# # 아마존 리뷰 크롤러 프로젝트
-# review/amazon_reviews/**/data/results/
-# review/amazon_reviews/**/data/failed/
-# review/amazon_reviews/**/logs/
-# review/amazon_reviews/**/__pycache__/
-# review/amazon_reviews/mongo_data
+# 아마존 리뷰 크롤러 프로젝트
+review/amazon_reviews/**/data/results/
+review/amazon_reviews/**/data/failed/
+review/amazon_reviews/**/logs/
+review/amazon_reviews/**/__pycache__/
+review/amazon_reviews/mongo_data

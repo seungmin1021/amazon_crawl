@@ -1,0 +1,17 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+X-Amz-Rid: R5137EMN1XRQAS1N0QF8
+Accept-Ch-Lifetime: 86400
+Content-Encoding: gzip
+X-Content-Type-Options: nosniff
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-platform-version
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+X-Xss-Protection: 1;
+Content-Security-Policy-Report-Only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+Date: Thu, 22 May 2025 02:20:28 GMT
+Alt-Svc: h3=":443"; ma=93600
+X-Amzn-Cdn-Id: ak-0.75793217.1747880428.3c805c62
+X-Cache: NotCacheable from child
